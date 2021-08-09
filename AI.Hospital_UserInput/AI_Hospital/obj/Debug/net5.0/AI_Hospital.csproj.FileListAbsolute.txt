@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\bin\Debug\net5.0\AI_Hospital.exe
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\bin\Debug\net5.0\AI_Hospital.deps.json
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\bin\Debug\net5.0\AI_Hospital.runtimeconfig.json
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\bin\Debug\net5.0\AI_Hospital.runtimeconfig.dev.json
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\bin\Debug\net5.0\AI_Hospital.dll
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\bin\Debug\net5.0\ref\AI_Hospital.dll
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\bin\Debug\net5.0\AI_Hospital.pdb
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\AI_Hospital.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\AI_Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\AI_Hospital.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\AI_Hospital.AssemblyInfo.cs
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\AI_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\AI_Hospital.dll
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\ref\AI_Hospital.dll
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\AI_Hospital.pdb
+C:\Users\User\Desktop\Development\C# Programming\AI_Hospital\AI_Hospital\obj\Debug\net5.0\AI_Hospital.genruntimeconfig.cache
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\bin\Debug\net5.0\AI_Hospital.exe
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\bin\Debug\net5.0\AI_Hospital.deps.json
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\bin\Debug\net5.0\AI_Hospital.runtimeconfig.json
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\bin\Debug\net5.0\AI_Hospital.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\bin\Debug\net5.0\AI_Hospital.dll
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\bin\Debug\net5.0\ref\AI_Hospital.dll
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\bin\Debug\net5.0\AI_Hospital.pdb
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\AI_Hospital.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\AI_Hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\AI_Hospital.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\AI_Hospital.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\AI_Hospital.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\AI_Hospital.dll
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\ref\AI_Hospital.dll
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\AI_Hospital.pdb
+C:\Users\Korisnik\Documents\Github\CSharp_AI.Hospital_ConsoleApp\AI.Hospital_UserInput\AI_Hospital\obj\Debug\net5.0\AI_Hospital.genruntimeconfig.cache
